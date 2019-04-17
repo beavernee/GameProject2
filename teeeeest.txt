@@ -1,2 +1,3 @@
-asdfadf
+﻿asdfadf
 test1:추가[인터넷상]
+test2:추가[데스크톱]
